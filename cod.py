@@ -1,4 +1,4 @@
 print("Hello word!")
-a = 7
-b = 8
+a = 10
+b = 10
 print("Колличество яблок =", a + b)

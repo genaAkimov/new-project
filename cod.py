@@ -1,5 +1,5 @@
 print("Hello word!")
-a = 13
+a = 15
 b = 19
 print("Колличество яблок =", a + b)
 print("Как дела?")
